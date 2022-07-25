@@ -1,0 +1,11 @@
+C:\Users\eliah\source\repos\MouseHover\MouseHover\bin\Debug\MouseHover.exe.config
+C:\Users\eliah\source\repos\MouseHover\MouseHover\bin\Debug\MouseHover.exe
+C:\Users\eliah\source\repos\MouseHover\MouseHover\bin\Debug\MouseHover.pdb
+C:\Users\eliah\source\repos\MouseHover\MouseHover\obj\Debug\MouseHover.csproj.AssemblyReference.cache
+C:\Users\eliah\source\repos\MouseHover\MouseHover\obj\Debug\MouseHover.csproj.SuggestedBindingRedirects.cache
+C:\Users\eliah\source\repos\MouseHover\MouseHover\obj\Debug\MouseHover.Form1.resources
+C:\Users\eliah\source\repos\MouseHover\MouseHover\obj\Debug\MouseHover.Properties.Resources.resources
+C:\Users\eliah\source\repos\MouseHover\MouseHover\obj\Debug\MouseHover.csproj.GenerateResource.cache
+C:\Users\eliah\source\repos\MouseHover\MouseHover\obj\Debug\MouseHover.csproj.CoreCompileInputs.cache
+C:\Users\eliah\source\repos\MouseHover\MouseHover\obj\Debug\MouseHover.exe
+C:\Users\eliah\source\repos\MouseHover\MouseHover\obj\Debug\MouseHover.pdb
